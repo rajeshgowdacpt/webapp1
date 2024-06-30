@@ -100,12 +100,14 @@ Although you can use them, for a more unique website, replace these images with 
 	%>
 	<br>	
 	<%out.println("Server IP Address = "+ip);%>
+	<br>
 	<% 
         Date now = new Date();
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         String formattedDate = sdf.format(now);
         out.println("Current Date and Time = " + formattedDate); 
         %>
+	<br>
 	</h1>
 	<br>
             </div>
