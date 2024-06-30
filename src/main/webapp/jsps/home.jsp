@@ -85,15 +85,15 @@ Although you can use them, for a more unique website, replace these images with 
                 <p>Welcome to DevOps - Continuous Integration & Continuous Deployment Testing</p>
                 <a href="#" class="btn btn-primary btn-lg">development environment</a>
 	<br>
-	<h1><h3> Server Side IP Address </h3><br>
+	<h1><h3> Server Details </h3><br>
 	<% 
 	String ip = "";
 	InetAddress inetAddress = InetAddress.getLocalHost();
 	ip = inetAddress.getHostAddress();
-	out.println("Server Host Name :: "+inetAddress.getHostName()); 
+	out.println("Server Host Name = "+inetAddress.getHostName()); 
 	%>
 	<br>	
-	<%out.println("Server IP Address :: "+ip);%>
+	<%out.println("Server IP Address = "+ip);%>
 	</h1>
 	<br>
             </div>
