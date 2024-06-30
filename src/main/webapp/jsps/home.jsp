@@ -98,6 +98,9 @@ Although you can use them, for a more unique website, replace these images with 
 	<br>	
 	<%out.println("Server IP Address = "+ip);%>
 	<% 
+	<%@ page import="java.util.Date" %>
+	<%@ page import="java.text.SimpleDateFormat" %>
+	<%@ page import="java.net.InetAddress" %>
         Date now = new Date();
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         String formattedDate = sdf.format(now);
