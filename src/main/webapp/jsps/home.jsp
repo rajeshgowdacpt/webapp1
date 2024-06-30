@@ -48,7 +48,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>RSPG Limited - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center><small>Copyrights 2022 by <a href="http://rspg.ltd/">RSPG Limited,Bengaluru</a> </small></p>
 
 </body>
 </html>
