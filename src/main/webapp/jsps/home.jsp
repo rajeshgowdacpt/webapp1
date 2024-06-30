@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>RSPG Limited- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Private Ltd. Ph No: +91-9980923226, +91-9980923216 ,+91-9900012028,Bengaluru,Karnataka,India</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to RSPG Limited. Ph No: +91 9620568838, Bengaluru,Karnataka,India</h1>
+<h1 align="center"> RSPG Limited - Very Good Training center for DevOps with AWS,Python & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,20 +34,20 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
+		RSPG Limited, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
-		+91-9980923226,+91-9900012028
-		devopstrainingblr@gmail.com
+		+91 9620568838
+		contact@rspg.ltd
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:contact@rspg.ltd">Mail to RSPG Limited</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
+<p align=center>RSPG Limited - Consultant, Training, Development Center.</p>
 <p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
 
 </body>
