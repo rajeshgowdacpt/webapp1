@@ -1,5 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ page import="java.net.*" %>
+<%@ page import="java.util.Date" %>
+<%@ page import="java.text.SimpleDateFormat" %>
+<%@ page import="java.net.InetAddress" %>
 <!DOCTYPE html>
 <!-- Template by Quackit.com -->
 <!-- Images by various sources under the Creative Commons CC0 license and/or the Creative Commons Zero license. 
@@ -98,9 +101,6 @@ Although you can use them, for a more unique website, replace these images with 
 	<br>	
 	<%out.println("Server IP Address = "+ip);%>
 	<% 
-	<%@ page import="java.util.Date" %>
-	<%@ page import="java.text.SimpleDateFormat" %>
-	<%@ page import="java.net.InetAddress" %>
         Date now = new Date();
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         String formattedDate = sdf.format(now);
