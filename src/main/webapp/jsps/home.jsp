@@ -84,8 +84,9 @@ Although you can use them, for a more unique website, replace these images with 
                 <h1>DevOps</h1>
                 <p>Welcome to DevOps - Continuous Integration & Continuous Deployment Testing</p>
                 <a href="#" class="btn btn-primary btn-lg">deployment completed successfully</a>
+	<br>
 
-	
+	<br>
 	<br>
 	<% 
 	String ip = "";
