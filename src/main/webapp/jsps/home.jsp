@@ -5,12 +5,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>RSPG Limited- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/logo-web-transparent.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to RSPG Limited. Ph No: +91 9620568838, Bengaluru,Karnataka,India</h1>
-<h1 align="center"> RSPG Limited - Very Good Training center for DevOps with AWS,Python & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to RSPG Limited</h1>
+<h1 Ph No: +91 9620568838</h1>
+<h1 Bengaluru, Karnataka, India</h1>
+#<h1 align="center"> RSPG Limited - Very Good Training center for DevOps with AWS,Python & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -31,11 +33,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/logo-web-transparent.png" alt="" width="100">
+		<img src="images/logo-web-transparent.png" alt="" width="400">
 	</span>
 	<span style="font-weight: bold;">
 		RSPG Limited, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
+		Kanakupura Road, BSK
 		Bangalore,
 		+91 9620568838
 		contact@rspg.ltd
