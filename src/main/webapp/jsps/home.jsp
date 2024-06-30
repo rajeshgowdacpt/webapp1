@@ -17,6 +17,7 @@ Although you can use them, for a more unique website, replace these images with 
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <title>RSPG - DevOps (Dev Env)</title>
+    <link href="images/logo-web-transparent.png" rel="icon">
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
