@@ -103,7 +103,7 @@ Although you can use them, for a more unique website, replace these images with 
 	<br>
 	<% 
         Date now = new Date();
-        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy | HH:mm:ss");
         String formattedDate = sdf.format(now);
         out.println("Current Date and Time = " + formattedDate); 
         %>
