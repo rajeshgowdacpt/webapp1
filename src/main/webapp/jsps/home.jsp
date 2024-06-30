@@ -98,13 +98,9 @@ Although you can use them, for a more unique website, replace these images with 
 	<br>	
 	<%out.println("Server IP Address = "+ip);%>
 	<% 
-        // Get the current date and time
         Date now = new Date();
-        // Define the date and time format
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-        // Format the current date and time
         String formattedDate = sdf.format(now);
-        // Print the formatted date and time
         out.println("Current Date and Time = " + formattedDate); 
         %>
 	</h1>
