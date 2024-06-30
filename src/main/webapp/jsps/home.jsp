@@ -11,7 +11,7 @@ Although you can use them, for a more unique website, replace these images with 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-    <title>Business 2</title>
+    <title>RSPG</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -46,7 +46,7 @@ Although you can use them, for a more unique website, replace these images with 
                 </button>
                 <a class="navbar-brand" href="#">
                 	<span class="glyphicon glyphicon-fire"></span> 
-                	LOGO
+                	RSPG LIMITED
                 </a>
             </div>
             <!-- Navbar links -->
@@ -61,9 +61,9 @@ Although you can use them, for a more unique website, replace these images with 
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="caret"></span></a>
 						<ul class="dropdown-menu" aria-labelledby="about-us">
-							<li><a href="#">Engage</a></li>
-							<li><a href="#">Pontificate</a></li>
-							<li><a href="#">Synergize</a></li>
+							<li><a href="#">Consultancy Services</a></li>
+							<li><a href="#">Managed Services</a></li>
+							<li><a href="#">Adhoc Services</a></li>
 						</ul>
 					</li>
                     <li>
@@ -81,7 +81,7 @@ Although you can use them, for a more unique website, replace these images with 
             <div class="header-content-inner">
                 <h1>Dramatically Engage</h1>
                 <p>Objectively innovate empowered manufactured products whereas parallel platforms.</p>
-                <a href="#" class="btn btn-primary btn-lg">Engage Now</a>
+                <a href="#" class="btn btn-primary btn-lg">"Development Environment"</a>
             </div>
         </div>
     </header>
