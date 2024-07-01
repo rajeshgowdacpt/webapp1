@@ -115,6 +115,64 @@ Although you can use them, for a more unique website, replace these images with 
         </div>
     </header>
 
+    <!-- Promos -->
+	<div class="container-fluid">
+        <div class="row promo">
+        	<a href="#">
+				<div class="col-md-4 promo-item item-1">
+					<h3>
+						Unleash
+					</h3>
+				</div>
+            </a>
+            <a href="#">
+				<div class="col-md-4 promo-item item-2">
+					<h3>
+						Synergize
+					</h3>
+				</div>
+            </a>
+			
+			<a href="#">
+				<div class="col-md-4 promo-item item-3">
+					<h3>
+						Procrastinate
+					</h3>
+				</div>
+            </a>
+        </div>
+    </div><!-- /.container-fluid -->
+
+    	<!-- Contact Us -->
+        <div class="contact">
+        	<div class="container">
+				<h2 class="section-heading">Contact Us</h2>
+				<p><span class="glyphicon glyphicon-earphone"></span><br> +1(23) 456 7890</p>
+				<p><span class="glyphicon glyphicon-envelope"></span><br> info@example.com</p>
+        	</div>
+        </div>
+        	
+        <!-- Copyright etc -->
+        <div class="small-print">
+        	<div class="container">
+        		<p>Copyright &copy; Example.com 2015</p>
+        	</div>
+        </div>
+        
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery-1.11.3.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+    
+    <!-- Custom Javascript -->
+    <script src="js/custom.js"></script>
+
 </body>
 
 </html>
