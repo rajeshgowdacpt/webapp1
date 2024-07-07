@@ -82,7 +82,7 @@ Although you can use them, for a more unique website, replace these images with 
 						</ul>
 					</li>
                     <li>
-			<a href="webapp1/src/main/webapp/jsps/contact.jsp">Contact</a>
+			<a href="#">Contact</a>
                     </li>
                 </ul>
                 
