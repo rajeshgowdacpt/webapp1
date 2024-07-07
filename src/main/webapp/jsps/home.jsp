@@ -70,6 +70,7 @@ Although you can use them, for a more unique website, replace these images with 
 							<li><a href="#">Consultancy Services</a></li>
 							<li><a href="#">Managed Services</a></li>
 							<li><a href="#">Adhoc Services</a></li>
+							<li><a href="#">Cloud Services</a></li>
 						</ul>
 					</li>
                     <li>
