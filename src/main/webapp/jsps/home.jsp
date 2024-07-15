@@ -81,14 +81,14 @@ Although you can use them, for a more unique website, replace these images with 
 							<li><a href="#">Google</a></li>
 						</ul>
 					</li>
-					<li class="dropdown">
+				<!--	<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Clients <span class="caret"></span></a>
 						<ul class="dropdown-menu" aria-labelledby="about-us">
 							<li><a href="#">Ahana Systems</a></li>
 							<li><a href="#">Wipro</a></li>
 							<li><a href="#">Microsoft</a></li>
 						</ul>
-					</li>
+					</li>	-->
                     <li>
 			<a href="#">Contact</a>
                     </li>
